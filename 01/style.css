@@ -43,6 +43,7 @@ body{
    
     box-shadow: 0px 5px 15px hsla(178, 66%, 23%, 0.211);
     background-color: rgb(255, 255, 255);
+    
     width: 50vw; 
     height: 70px;
     min-width: 800px;
@@ -56,7 +57,7 @@ body{
     margin:auto;
     display: flex;
     align-items: center;
-    
+    border-left: 5px solid rgb(255, 255, 255);
     box-shadow: 0px 10px 30px hsla(178, 66%, 23%, 0.211);
     background-color: rgb(255, 255, 255);
     width: 50vw; 
